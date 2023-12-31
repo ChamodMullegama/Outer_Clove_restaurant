@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: bisque;
+  }
+  
+  .login-box {
+    width: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(143, 137, 137, 0.207) ;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(143, 137, 137, 0.1);
+  }
+  
+  .login-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: whitesmoke;
+  }
+  
+  .textbox {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  /* .textbox input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background: whitesmoke ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  } */
+
+
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background: rgba(245, 245, 245, 0.823) ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+
+  
+  .btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    background: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background: #0056b3;
+  }
+  
+  .forgot-password {
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+  }
+  .regtation{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+  }
+  .forgot-password:hover{
+    color: #007bff;
+  }
+  .regtation:hover{
+    color: #007bff;
+  }
+
+  .login-status-message-error {
+    color: #ff5555;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ffebee;
+    transition: opacity 0.3s ease;
+  }
+  
+  .login-status-message-success {
+    font-weight: 300;
+    color: #33cc33;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f0fff0;
+    transition: opacity 0.3s ease;
+  }

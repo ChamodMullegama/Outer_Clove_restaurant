@@ -1,0 +1,32 @@
+**** outer clove restaurant ****
+
+**Database Name: outer_clove_restaurant
+
+**Developed by Chamod Mullegama
+
+**Recommended PHP Version 7.4, 8.1.**
+
+**customer verification will involve accessing the database and updating their active status based on their email during registration and login**
+
+**regisied customer Login Details**
+
+Email: chamod.mullegama@gmail.com
+Password: gmpc 
+
+
+**Admin Login Details**
+
+user name: ocradmin
+Password: gmpc2001@
+
+
+**Staff Login Details**
+
+user name: vnr
+Password: 123
+
+
+*If there are any issues, please contact me**
+
+Phone: +94 702-740-542
+Email: chamod.mullegama@gmail.com
