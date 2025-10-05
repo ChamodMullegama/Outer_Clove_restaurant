@@ -47,7 +47,7 @@ Outer Clove Restaurant is a modern web application designed to showcase a dining
 ## ⚙️ Installation
 1. Clone the project
 2. Move project folder to your server directory (e.g., htdocs for XAMPP)
-3. Create a MySQL database (e.g., skfashion)
+3. Create a MySQL database (e.g., outer_clove_restaurant)
 4. Import the provided SQL file into the database
 5. Update config.php (or relevant DB config file) with your database credentials
 6. Start Apache and MySQL from XAMPP (or your server)
