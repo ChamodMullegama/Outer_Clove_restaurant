@@ -1,4 +1,4 @@
-# Outer Clove Restaurant – Modern Web Application for Resturant
+# Outer Clove Restaurant – Modern Web Application for Restaurant
 
 Outer Clove Restaurant is a modern web application designed to showcase a dining establishment’s menu, services, and ambiance. The site combines clean design with responsive features to deliver an engaging and user-friendly digital experience for customers. 
 
