@@ -1,6 +1,6 @@
-# SK Fashion – Modern Web Application for Online Shopping
+# Outer Clove Restaurant – Modern Web Application for Resturant
 
-**SK Fashion** is a dynamic e-commerce web application designed to provide a seamless online shopping experience. The platform enables users to browse collections, view detailed product information, and make secure purchases. With an easy-to-use interface and responsive design, SK Fashion enhances both customer engagement and business operations.  
+Outer Clove Restaurant is a modern web application designed to showcase a dining establishment’s menu, services, and ambiance. The site combines clean design with responsive features to deliver an engaging and user-friendly digital experience for customers. 
 
 ## Demo Images
 <div align="center">
@@ -26,9 +26,9 @@
 ## 🚀 Features
 - User authentication (login/register)  
 - Product catalog with categories  
-- Shopping cart & checkout process  
+- cart & checkout process  
 - Order management system  
-- Admin dashboard for managing products, users, and orders  
+- Admin and staff dashboard for managing dishes, users, and orders  
 - Responsive and mobile-friendly UI  
 
 ## 🛠️ Technologies Used
